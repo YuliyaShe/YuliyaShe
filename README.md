@@ -71,10 +71,10 @@ Zapier | Make | Voiceflow | FastAPI | Bootstrap
 
 ### | В рамках Data Science реализованы следующие проекты:
 
-| 1. [Анализ исторических данных акций и выручки компаний Tesla и GameStop](https://github.com/YuliyaShe/DataScience_projects/tree/main/StocsRevenue)
+1. [Анализ исторических данных акций и выручки компаний Tesla и GameStop](https://github.com/YuliyaShe/DataScience_projects/tree/main/StocsRevenue)
 
-| 2. [Прогнозирование цен на недвижимость в районе Кинг-Каунти (Сиэтл) с использованием регрессионных моделей](https://github.com/YuliyaShe/DataScience_projects/tree/main/The_house_price_forcast)
+2. [Прогнозирование цен на недвижимость в районе Кинг-Каунти (Сиэтл) с использованием регрессионных моделей](https://github.com/YuliyaShe/DataScience_projects/tree/main/The_house_price_forcast)
 
-| 3. [Анализ и визуализация данных запусков SpaceX с предсказанием успешности посадки первой ступени](https://github.com/YuliyaShe/DataScience_projects/tree/main/Space_X)
+3. [Анализ и визуализация данных запусков SpaceX с предсказанием успешности посадки первой ступени](https://github.com/YuliyaShe/DataScience_projects/tree/main/Space_X)
 
-| 4. [Прогнозирование осадков в Сиднее с использованием моделей машинного обучения](https://github.com/YuliyaShe/DataScience_projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BE%D1%81%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2)
+4. [Прогнозирование осадков в Сиднее с использованием моделей машинного обучения](https://github.com/YuliyaShe/DataScience_projects/tree/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%D0%BE%D1%81%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2)
